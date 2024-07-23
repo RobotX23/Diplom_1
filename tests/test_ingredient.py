@@ -1,4 +1,4 @@
-from ingredient import Ingredient
+from praktikum.ingredient import Ingredient
 from data import *
 import pytest
 
